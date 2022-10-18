@@ -1,0 +1,18 @@
+.rating{
+    background-color: var(--light-magenta);
+    width: 325px;
+    height: 75px;
+    text-align: center;
+    border-radius: 10px;  
+}
+
+.rating-icon{
+    padding-top: 10px;
+}
+.rating-description{
+
+    color: #502050;
+    font-weight: 700;;
+
+
+}

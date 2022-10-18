@@ -1,0 +1,33 @@
+.review-wrapper{
+    width: 325px;
+    height: 250px;
+    margin-bottom: 15px;
+    background-color: var(--very-dark-magenta);
+    border-radius: 10px;
+}
+.reviewer-dp{
+    border-radius: 50%;
+    width:40px;
+}
+.reviewer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly
+}
+.reviewer-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.reviewer-name{
+    color: var(--light-magenta);
+}
+
+.reviewer-verified{
+    color: var(--soft-pink);
+
+}
+.reviewer-review{
+    color: var(--light-magenta);
+}
